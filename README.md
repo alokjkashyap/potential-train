@@ -1,2 +1,2 @@
-# potential-train
+# Potential-train
 My 3rd repository.
